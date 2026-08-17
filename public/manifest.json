@@ -1,0 +1,24 @@
+{
+    "name": "FundusGuardAI",
+    "short_name": "fgai",
+    "description": "Fundus Guard AI is a autonomus Glaucoma detection system using Deep learning and XAI. This doctor advisor system not predict eye glaucoma but also define why it is consider as glaucoma.",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "1500x1500 16x16",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "logo1500.png",
+            "type": "image/png",
+            "sizes": "1500x1500"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#22577aff",
+    "background_color": "#ffffff",
+    "contact": "krishnendumitra24@gmail.com",
+    "developer": "Krishnendu Mitra",
+    "ai_name": "Moppa"
+}
