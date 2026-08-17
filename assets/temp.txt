@@ -1,0 +1,30 @@
+logo
+description
+signup button
+learn more button
+
+Quick linkes
+1. Home page
+2. About page
+3. Contact Page
+4. Community Page
+5. Blogs
+6. FAQs
+
+Pricing
+1. For Student
+2. For Teachers
+3. For Employees
+4. For HR
+
+Company
+1. Mission
+2. App Status
+3. Careers
+4. Friends
+5. Webinars
+
+
+
+
+
